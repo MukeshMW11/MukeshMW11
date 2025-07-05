@@ -1,23 +1,7 @@
 
 🌐 [Portfolio](https://react-portfolio-zeta-jade.vercel.app/) | [LinkedIn](http://www.linkedin.com/in/mw1m) | [GitHub](https://github.com/MukeshMW1)
 
----
 
-## 🛠️ Tech Stack
-
-**Frontend**  
-React · Next.js · Vue · Nuxt · TailwindCSS · GSAP  
-
-**Backend**  
-Node.js · Express.js · NestJS · Flask · Python  
-
-**Database & DevOps**  
-MongoDB · PostgreSQL · Prisma · Docker · Nginx · Git · GitHub · Vercel · Render  
-
-**Others**  
-KNN · OpenCV · C/C++
-
----
 
 ## 🚀 Featured Projects
 
