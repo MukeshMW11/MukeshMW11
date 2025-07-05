@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Mukesh Bhatta
 
-🎓 **Computer Engineering Student** at Kathmandu Engineering College (Tribhuvan University)  
-💻 **Full-Stack Developer** | React, Next.js, Node.js, MongoDB  
-🧠 **AI/ML Enthusiast** with interest in real-world applications  
 🌐 [Portfolio](https://react-portfolio-zeta-jade.vercel.app/) | [LinkedIn](http://www.linkedin.com/in/mw1m) | [GitHub](https://github.com/MukeshMW1)
 
 ---
@@ -37,14 +33,7 @@ A GSAP-animated, scroll-interactive responsive clone of [Zentry](https://zentry.
 ### 🤖 [Smart Attendance System](https://github.com/MukeshMW1/Smart-Attendance)
 An AI-powered attendance system using facial recognition. Built with Python (OpenCV), React, and ML algorithms.
 
----
-
-## 🌟 Achievements
-
-- 🚀 Reduced loading time by **40%** through performance optimization
-- 👥 Led a team of 4 developers for successful project delivery
-- 🎨 Boosted user engagement with intuitive animated UIs
-
+--
 ---
 
 ## 📬 Let's Connect
