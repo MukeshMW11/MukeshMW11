@@ -1,5 +1,5 @@
 
-🌐 [Portfolio](https://react-portfolio-zeta-jade.vercel.app/) | [LinkedIn](http://www.linkedin.com/in/mw1m) | [GitHub](https://github.com/MukeshMW1)
+🌐 [Portfolio](https://react-portfolio-zeta-jade.vercel.app/) | [LinkedIn](http://www.linkedin.com/in/mw1m) | [PastGitHub](https://github.com/MukeshMW1)
 
 
 
