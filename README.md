@@ -15,8 +15,8 @@ ENGINEER > INNOVATE > CODE > DEPLOY > REPEAT
 | **Frontend** | **Backend** | **Database** | **AI/ML** |
 |:---:|:---:|:---:|:---:|
 | React ⚛️ | Node.js 🟢 | MongoDB 🍃 | CNN 👁️ |
-| JavaScript ⚡ | Express 🚀 | Firebase 🔥 | Computer Vision 🤖 |
-| GSAP ✨ | Python 🐍 | | VIT Transformer 📸 |
+| JavaScript ⚡ | Express 🚀 | Firebase 🔥 | YOLO 🤖 |
+| GSAP ✨ | Python 🐍 |Postgresql | VIT  📸 |
 
 ---
 
