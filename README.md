@@ -68,6 +68,7 @@ Mission: Transforming complex problems into elegant solutions
   "email": "mukeshbhattampb111@gmail.com",
   "linkedin": "/in/mw1m",
   "portfolio": "react-portfolio-zeta-jade.vercel.app",
+"AI Portfolio":"https://v0-react-portfolio-pi.vercel.app/",
   "x-github":"http://github.com/mukeshmw1",
   "leetcode":"https://leetcode.com/u/MukeshMW1/",
   "response_time": "< 24 hours"
