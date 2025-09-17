@@ -16,7 +16,7 @@ ENGINEER > INNOVATE > CODE > DEPLOY > REPEAT
 |:---:|:---:|:---:|:---:|
 | React ⚛️ | Node.js 🟢 | MongoDB 🍃 | CNN 👁️ |
 | JavaScript ⚡ | Express 🚀 | Firebase 🔥 | YOLO 🤖 |
-| GSAP ✨ | Python 🐍 |Postgresql | VIT  📸 |
+| GSAP ✨ | Python 🐍 | PostgreSQL 🐘 | ViT 📸 |
 
 ---
 
@@ -68,25 +68,82 @@ Mission: Transforming complex problems into elegant solutions
   "email": "mukeshbhattampb111@gmail.com",
   "linkedin": "/in/mw1m",
   "portfolio": "react-portfolio-zeta-jade.vercel.app",
-"AI Portfolio":"https://v0-react-portfolio-pi.vercel.app/",
-  "x-github":"http://github.com/mukeshmw1",
-  "leetcode":"https://leetcode.com/u/MukeshMW1/",
+  "AI_Portfolio": "https://v0-react-portfolio-pi.vercel.app/",
+  "github": "http://github.com/mukeshmw1",
+  "leetcode": "https://leetcode.com/u/MukeshMW1/",
   "response_time": "< 24 hours"
 }
 ```
 
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukeshMW11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1" alt="GitHub Stats" />
+  
+  <!-- GitHub Stats with cache busting -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshmw1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages with cache busting -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmw1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  
 </div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshMW11&layout=compact&theme=tokyonight&cache_seconds=1" alt="Top Languages" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mukeshmw1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%" />
+  
 </div>
+
+---
+
+## 🏅 GitHub Trophies
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MukeshMW11&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mukeshmw1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshmw1&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 35 mins   ████████████░░░░░░░░░   48.2%
+Python       4 hrs 12 mins   ██████░░░░░░░░░░░░░░░   23.6%
+React        2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   15.4%
+CSS          1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░    7.3%
+HTML         58 mins         █░░░░░░░░░░░░░░░░░░░░    5.5%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  
+  ### 🤝 Let's Connect & Build Something Amazing!
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mw1m)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshbhattampb111@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://react-portfolio-zeta-jade.vercel.app)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/MukeshMW1/)
+  
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=mukeshmw1&color=00D9FF&style=for-the-badge)
+  
 </div>
 
 ---
 
 <div align="center">
-  <i>Engineering tomorrow's solutions today</i> 🚀
+  <i>✨ Engineering tomorrow's solutions today ✨</i> 🚀
+  <br/>
+  <sub>⭐ Star my repositories if you find them useful!</sub>
 </div>
