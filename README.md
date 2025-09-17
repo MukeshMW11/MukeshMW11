@@ -81,18 +81,22 @@ Mission: Transforming complex problems into elegant solutions
 
 <div align="center">
   
-  <!-- GitHub Stats with cache busting -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshmw1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages with cache busting -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmw1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- Alternative GitHub Stats using different service -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukeshmw1&theme=tokyonight" alt="GitHub Profile Summary" />
   
 </div>
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mukeshmw1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukeshmw1&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukeshmw1&theme=tokyonight" alt="Top Languages" width="48%" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Alternative Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=mukeshmw1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   
 </div>
 
