@@ -1,15 +1,13 @@
 # ⚡ Mukesh Bhatta | Software Engineer 
 
 
-<div align="center">
-  <!-- MAIN FOCUS: X-GitHub Link with Maximum Attention -->
-  <br/>
+<div align="center"> <!-- MAIN FOCUS: Clean, Bold X-GitHub Link --> <br/>
 Show Image
-  <!-- Pulsing Animation Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=header&animation=twinkling" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" /> </div>
+
 
 ---
 
