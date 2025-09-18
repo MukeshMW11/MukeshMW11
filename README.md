@@ -5,7 +5,7 @@
   <!-- Simple, reliable social links -->
 
   <a href="https://github.com/mukeshmw1">
-    <h3 bg="black" text="white">X-Github</h3>
+    X-Github
   </a>
 <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
