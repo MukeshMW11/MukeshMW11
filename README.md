@@ -2,10 +2,13 @@
 
 
 <div align="center">
-  <!-- MAIN FOCUS: Clean, Bold X-GitHub Link -->
-  <br/>
-Show Image
-Show Image
+  <!-- Simple, reliable social links -->
+  <a href="https://x.com/your_twitter_handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/mukeshmw1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
