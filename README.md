@@ -1,5 +1,21 @@
 # ⚡ Mukesh Bhatta | Software Engineer 
-##### "https://github.com/mukeshmw1"
+<div align="center">
+  <!-- Social Links with Eye-catching Design -->
+Show Image
+Show Image
+Show Image
+  <br/>
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <br/>
+  <!-- Quick Access Buttons -->
+  <a href="https://github.com/mukeshmw1">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Code-GitHub-blue?style=flat-square&logoColor=white&labelColor=000&color=00D9FF" alt="Explore Code" />
+  </a>
+  <a href="mailto:mukeshbhattampb111@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Let's_Connect-Email-red?style=flat-square&logoColor=white&labelColor=000&color=FF6B6B" alt="Contact Me" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
